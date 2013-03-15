@@ -1,4 +1,0 @@
-django-locus
-============
-
-django-locus
